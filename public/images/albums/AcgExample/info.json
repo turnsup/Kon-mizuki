@@ -1,0 +1,10 @@
+{
+	"title": "Some lovely pictures",
+	"hidden": false,
+	"description": "来自作者内置的图片，可爱喵",
+	"date": "2025-08-01",
+	"location": "Bilibili",
+	"tags": ["Kawai", "Cute", "Moe"],
+	"layout": "masonry",
+	"columns": 3
+}
