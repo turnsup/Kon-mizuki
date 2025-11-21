@@ -97,14 +97,11 @@ export const siteConfig: SiteConfig = {
 				"/assets/desktop-banner/kon5.png",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/m1.webp",
-				"/assets/mobile-banner/m2.webp",
-				"/assets/mobile-banner/m3.webp",
-				"/assets/mobile-banner/m4.webp",
-				"/assets/mobile-banner/m5.webp",
-				"/assets/mobile-banner/m6.webp",
-				"/assets/mobile-banner/m7.webp",
-				"/assets/mobile-banner/m8.webp",
+				"/assets/mobile-banner/m_kon1.png",
+				"/assets/mobile-banner/m_kon2.png",
+				"/assets/mobile-banner/m_kon3.png",
+				"/assets/mobile-banner/m_kon4.png",
+				"/assets/mobile-banner/m_kon5.png",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -196,14 +193,11 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 			"/assets/desktop-banner/kon5.png",
 		], // 桌面横幅图片
 		mobile: [
-			"/assets/mobile-banner/m1.webp",
-			"/assets/mobile-banner/m2.webp",
-			"/assets/mobile-banner/m3.webp",
-			"/assets/mobile-banner/m4.webp",
-			"/assets/mobile-banner/m5.webp",
-			"/assets/mobile-banner/m6.webp",
-			"/assets/mobile-banner/m7.webp",
-			"/assets/mobile-banner/m8.webp",
+			"/assets/mobile-banner/m_kon1.png",
+			"/assets/mobile-banner/m_kon2.png",
+			"/assets/mobile-banner/m_kon3.png",
+			"/assets/mobile-banner/m_kon4.png",
+			"/assets/mobile-banner/m_kon5.png",
 		], // 移动横幅图片
 	}, // 使用本地横幅图片
 	position: "center", // 壁纸位置，等同于 object-position
