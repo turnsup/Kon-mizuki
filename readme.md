@@ -6,7 +6,8 @@
 <span style="background-color:#2ecc71; color:white; padding:2px 6px; border-radius:4px;">Astro=5.15.3</span>
 <span style="background-color:#FFD700; color:white; padding:2px 6px; border-radius:4px;">TypeScript=5.9.3 </span>
 <span style="background-color:#e74c3c; color:white; padding:2px 6px; border-radius:4px;">npm=11.6.2</span>
-
+### 样例 K-on Mizuku
+![网站样例](/sample/kon.png "kon")
 
 ## 🌼本地运行
 
